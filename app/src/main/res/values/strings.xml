@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ImageRecyclerView</string>
+    <string-array name="place">
+        <item>Kuala Lumpur</item>
+        <item>Putrajaya</item>
+        <item>Melaka</item>
+        <item>Johor Bahru</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Ibu Negara Malaysia</item>
+        <item>Pusat Pentadbiran Kerajaan Malaysia</item>
+        <item>Bandaraya Bersejarah</item>
+        <item>Pintu Masuk Selatan</item>
+    </string-array>
+
+    <string-array name="image">
+        <item>@drawable/kualalumpur</item>
+        <item>@drawable/putrajaya</item>
+        <item>@drawable/melaka</item>
+        <item>@drawable/johorbahru</item>
+    </string-array>
+
+</resources>
